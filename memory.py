@@ -21,7 +21,7 @@ def chat_with_qwen(user_message):
     return reply
 
 
-print("Chatbot with memory! Type 'quit' to exit.\n")
+print("Chatbot with memory! Type 'quit' toexit.\n")
 
 while True:
     user_input = input("You: ")
